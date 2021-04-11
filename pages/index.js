@@ -2,6 +2,7 @@ import styles from '../styles/Home.module.css'
 
 import definitions from '../data/definitions'
 import { useState } from 'react'
+import Treasure from '../assets/Treasure.svg'
 
 export const getStaticProps = async () => {
     return {
@@ -29,6 +30,7 @@ export default function Home(props) {
         <div className={styles.container}>
             <div className={styles.title}>
                 <h1>Concurso Caja Creativa</h1>
+                <Treasure className={styles.tiny} />
                 {/* CHEST ICON - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> */}
             </div>
 
@@ -36,7 +38,7 @@ export default function Home(props) {
                 <section className={styles.wordColumn}>
                     <button onClick={handleClick}>Generar palabra</button>
                     {word && <h2>{word}</h2>}
-                    {phrase && phrase.map(definition => <p>{definition}</p>)}
+                    {phrase && phrase.map((definition, i) => <p key={i}>{definition}</p>)}
                 </section>
 
                 <div className={styles.divider}></div>
@@ -45,7 +47,7 @@ export default function Home(props) {
                     <h2>Géneros</h2>
                     <p>Los géneros que podrás utilizar son:</p>
                     <div className={styles.genres}>
-                        <a href="">Poesía</a>
+                        <a href="https://drive.google.com/file/d/199ssJrOpnlSIVhl6Mmtv96atP7GpmW3m/view?usp=sharing" target="_blank">Poesía</a>
                         <a href="">Cuento corto</a>
                         <a href="">Drabble</a>
                         <a href="">Columna de opinión</a>
