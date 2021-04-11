@@ -1,4 +1,4 @@
-{
+export default {
     "Acmé": [
         "1. m. o f. Momento culminante. Está en el acmé de su fama. U. menos c. f.",
         "2. m. o f. Med. Período de mayor intensidad de una enfermedad. U. menos c. f."
