@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css'
 import definitions from '../data/definitions'
 import { useState } from 'react'
 import Treasure from '../assets/Treasure.svg'
+import Background from '../assets/Background.svg'
 
 export const getStaticProps = async () => {
     return {
@@ -28,6 +29,8 @@ export default function Home(props) {
 
     return (
         <div className={styles.container}>
+            <Background className={styles.top} />
+            <Background className={styles.bottom} />
             <div className={styles.title}>
                 <h1>Concurso Caja Creativa</h1>
                 <Treasure className={styles.tiny} />
@@ -55,8 +58,7 @@ export default function Home(props) {
                     </div>
                     <p>Haz click en cada uno para ver sus criterios de evaluación.</p>
                     <div className={styles.form}>
-                        <a href="">Enviar texto</a>
-                        {/* ARROW ICON */}
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc4zlIXUA4ZgYXanoqynCWAf3EwmOKhAijHvkHwPluZEWz3Q/viewform" target="_blank">Enviar texto →</a>
                     </div>
                 </section>
             </main>

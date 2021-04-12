@@ -8,8 +8,13 @@ html,
 body {
   padding: 0;
   margin: 0;
+  height: 100%;
   font-size: 16px;
   font-family: 'Karla', sans-serif, -apple-system;
+}
+
+#__next, .Home_container__1EcsU {
+  height: 100%;
 }
 
 a {
