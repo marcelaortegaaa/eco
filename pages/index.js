@@ -2,7 +2,7 @@ import styles from '../styles/Home.module.css'
 
 import definitions from '../data/definitions'
 import { useState } from 'react'
-import Treasure from '../assets/Treasure.svg'
+/* import Treasure from '../assets/Treasure.svg' */
 import Background from '../assets/Background.svg'
 
 export const getStaticProps = async () => {
@@ -33,7 +33,7 @@ export default function Home(props) {
             <Background className={styles.bottom} />
             <div className={styles.title}>
                 <h1>Concurso Caja Creativa</h1>
-                <Treasure className={styles.tiny} />
+                {/* <Treasure className={styles.tiny} /> */}
                 {/* CHEST ICON - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> */}
             </div>
 
