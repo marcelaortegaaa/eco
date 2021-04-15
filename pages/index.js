@@ -2,7 +2,6 @@ import styles from '../styles/Home.module.css'
 
 import definitions from '../data/definitions'
 import { useState } from 'react'
-/* import Treasure from '../assets/Treasure.svg' */
 import Background from '../assets/Background.svg'
 
 export const getStaticProps = async () => {
@@ -34,8 +33,8 @@ export default function Home(props) {
             <div className={styles.title}>
                 <h1>Concurso Caja Creativa</h1>
                 {/* <Treasure className={styles.tiny} /> */}
-                {/* CHEST ICON - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> */}
             </div>
+            <p className={styles.subtitle}>Haz click para obtener tu palabra aleatoria. Luego, escribirás un texto basado en ella.</p>
 
             <main className={styles.main}>
                 <section className={styles.wordColumn}>
@@ -50,7 +49,7 @@ export default function Home(props) {
                     <h2>Géneros</h2>
                     <p>Los géneros que podrás utilizar son:</p>
                     <div className={styles.genres}>
-                        <a href="https://drive.google.com/file/d/199ssJrOpnlSIVhl6Mmtv96atP7GpmW3m/view?usp=sharing" target="_blank">Poesía</a>
+                        <a href="">Poesía</a>
                         <a href="">Cuento corto</a>
                         <a href="">Drabble</a>
                         <a href="">Columna de opinión</a>
@@ -59,6 +58,13 @@ export default function Home(props) {
                     <p>Haz click en cada uno para ver sus criterios de evaluación.</p>
                     <div className={styles.form}>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc4zlIXUA4ZgYXanoqynCWAf3EwmOKhAijHvkHwPluZEWz3Q/viewform" target="_blank">Enviar texto →</a>
+                    </div>
+                    <div className={styles.credits}>
+                        <h2>Créditos</h2>
+                        <p>Ícono por Freepik en Flaticon
+                            <br />
+                        Definiciones tomadas de la RAE
+                        </p>
                     </div>
                 </section>
             </main>

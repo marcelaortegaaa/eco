@@ -13,6 +13,12 @@ body {
   font-family: 'Karla', sans-serif, -apple-system;
 }
 
+@media screen and (max-width: 768px) {
+  body {
+    height: max-content;
+  }
+}
+
 #__next, .Home_container__1EcsU {
   height: 100%;
 }

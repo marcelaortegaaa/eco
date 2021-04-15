@@ -3,9 +3,20 @@
 }
 
 .container .title {
-  padding: 2rem 2rem;
+  padding: 1rem 2rem 0;
   display: flex;
   justify-content: center;
+}
+
+.container p {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.container .subtitle {
+  text-align: center;
+  margin: 0 2rem 2rem;
 }
 
 .container h1 {
@@ -20,8 +31,8 @@
 .main {
   display: grid;
   grid-template-columns: 1fr 1px 1fr;
-  gap: 3rem;
-  padding: 0 9rem;
+  gap: 2rem;
+  padding: 0 6rem;
   align-items: center;
 }
 
@@ -34,18 +45,13 @@
 
 .main h2 {
   font-weight: 600;
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .main section {
   height: 100%;
-}
-
-.main section p {
-  font-size: 1.25rem;
-  font-weight: 500;
-  margin-bottom: 0.5rem;
+  padding-top: 0.25rem;
 }
 
 .main .wordColumn {
@@ -79,7 +85,7 @@
 
 .main .wordColumn button:active {
   box-shadow: 0px 0px #553180;
-  margin: 0.25rem 0 2.75rem;
+  margin: 0.25rem 0 2.5rem;
 }
 
 .main .wordColumn button:focus {
@@ -114,7 +120,7 @@
 }
 
 .main .form {
-  margin-top: 2rem;
+  margin: 2rem 0 0.75rem;
 }
 
 .main .form a {
@@ -122,18 +128,13 @@
   font-size: 1.75rem;
 }
 
-@media screen and (max-width: 768px) {
-  .main {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0;
-    padding: 0 2rem;
-    align-items: center;
-  }
+.main .credits h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
 
-  .main .divider {
-    display: none;
-  }
+.main .credits p {
+  font-size: 1rem;
 }
 
 .tiny{
@@ -156,4 +157,26 @@
 .arrow {
   width: 20px;
   height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 0 2rem;
+    align-items: center;
+  }
+
+  .main .divider {
+    display: none;
+  }
+
+  .container h1 {
+    margin-right: 0;
+  }
+
+  .main section {
+    margin-bottom: 1.5rem;
+  }
 }
