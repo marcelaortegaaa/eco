@@ -16,12 +16,12 @@
 
 .container .subtitle {
   text-align: center;
-  margin: 0 2rem 2rem;
+  margin: 0 10rem 1.25rem;
 }
 
 .container h1 {
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2.75rem;
   margin-right: 2rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -46,7 +46,7 @@
 .main h2 {
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 
 .main section {
@@ -111,6 +111,12 @@
   transition: background-size .2s;
 }
 
+.main .genreColumn .genres {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 2rem;
+}
+
 .main .genreColumn .genres a:hover {
   background-size: 4px 50px;
 }
@@ -119,8 +125,12 @@
   margin-bottom: 1rem;
 }
 
+.main .genreColumn p {
+  margin-bottom: 0.75rem;
+}
+
 .main .form {
-  margin: 2rem 0 1.5rem;
+  margin: 1rem 0;
 }
 
 .main .form a {
@@ -168,6 +178,10 @@
     gap: 0;
     padding: 0 2rem;
     align-items: center;
+  }
+
+  .container .subtitle {
+    margin: 0 2rem 2rem;
   }
 
   .main .divider {

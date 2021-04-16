@@ -34,7 +34,10 @@ export default function Home(props) {
                 <h1>Concurso Caja Creativa</h1>
                 {/* <Treasure className={styles.tiny} /> */}
             </div>
-            <p className={styles.subtitle}>Haz click para obtener tu palabra aleatoria. Luego, escribirás un texto basado en ella.</p>
+            <p className={styles.subtitle}>Haz click para obtener tu palabra aleatoria. Luego, escribe un texto basado en ella.
+                <br />
+                Se premiará el mejor texto de cada categoría con un bono de $300.000 redimibles en la librería KM5.
+            </p>
 
             <main className={styles.main}>
                 <section className={styles.wordColumn}>
@@ -49,13 +52,14 @@ export default function Home(props) {
                     <h2>Géneros</h2>
                     <p>Los géneros que podrás utilizar son:</p>
                     <div className={styles.genres}>
-                        <a href="">Poesía</a>
-                        <a href="">Cuento corto</a>
-                        <a href="">Drabble</a>
-                        <a href="">Columna de opinión</a>
-                        <a href="">Ensayo argumentativo</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1K-65nq6zU7OJV3qXFOqgnSjbv2a0MWOP/view?usp=sharing">Poesía</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1WXDhoX9BtstvGxoSpFIbwKUoRvkUKNZk/view?usp=sharing">Cuento corto</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1HPcyhVZAycEpPYz14YCyi_l6amLUGs1R/view?usp=sharing">Drabble</a>
+                        <a target="_blank" href="https://docs.google.com/file/d/1ckeHl2zVSzgXXPYL5vqy5HP5N_63MxSTRjAQ-qwbgPU/view?usp=sharing">Columna de opinión</a>
+                        <a target="_blank" href="https://docs.google.com/file/d/1MUOkyYBuRBuJQOYxDgtUTp3KKDDvBhbo6-uNmi_xVz8/view?usp=sharing">Ensayo argumentativo</a>
                     </div>
-                    <p>Haz click en cada uno para ver sus criterios de evaluación.</p>
+                    <p>Haz click en cada uno para ver sus criterios de evaluación. Puedes participar varias veces, pero solo podrás enviar un texto por palabra aleatoria.</p>
+                    <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b></p>
                     <div className={styles.form}>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc4zlIXUA4ZgYXanoqynCWAf3EwmOKhAijHvkHwPluZEWz3Q/viewform" target="_blank">Enviar texto →</a>
                     </div>
@@ -64,6 +68,8 @@ export default function Home(props) {
                         <p>Ícono por Freepik en Flaticon
                             <br />
                         Definiciones tomadas de la RAE
+                            <br />
+                        Concurso organizado por el Centro de Escritura ECO
                         </p>
                     </div>
                 </section>
