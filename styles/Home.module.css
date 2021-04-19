@@ -195,4 +195,9 @@
   .main section {
     margin-bottom: 1.5rem;
   }
+
+  .main .genreColumn .genres {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
