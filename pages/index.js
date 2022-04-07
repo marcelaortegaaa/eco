@@ -65,11 +65,9 @@ export default function Home(props) {
                     </div>
                     <div className={styles.credits}>
                         <h2>Créditos</h2>
-                        <p>Ícono por Freepik en Flaticon
+                        <p>Definiciones tomadas de la RAE
                             <br />
-                        Definiciones tomadas de la RAE
-                            <br />
-                        Concurso organizado por el Centro de Escritura ECO
+                            Concurso organizado por el Centro de Escritura ECO
                         </p>
                     </div>
                 </section>
