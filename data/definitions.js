@@ -1,48 +1,48 @@
 export default {
-    "abracadabrante": [
+    "Abracadabrante": [
         "1. Muy sorprendente y desconcertante."
     ],
-    "acecinar": [
+    "Acecinar": [
         "1. Salar las carnes y ponerlas al humo y al aire para que, enjutas, se conserven. U. también c. prnl.",
         "2. Quedarse, por vejez u otra causa, muy enjuto de carnes."
     ],
-    "adrede": [
+    "Adrede": [
         "1. A propósito, con intención deliberada. U. m. en sentambién peyor."
     ],
-    "apocado": [
+    "Apocado": [
         "1. De poco ánimo o espíritu.",
         "2. Vil o de baja condición."
     ],
-    "armisticio": [
+    "Armisticio": [
         "1. Suspensión de hostilidades pactada entre pueblos o ejércitos beligerantes."
     ],
-    "avalancha": [
+    "Avalancha": [
         "1. Alud."
     ],
-    "bahorrina": [
+    "Bahorrina": [
         "1. Suciedad.",
         "2. Poco us. Conjunto de muchas cosas asquerosas mezcladas con agua sucia.",
         "3. Poco us. Conjunto de gente soez y ruin."
     ],
-    "bochinche": [
+    "Bochinche": [
         "1. Tumulto, barullo, alboroto, asonada.",
         "2. Extambién buche (|| porción de líquido).",
         "3. Coloq. Pan. Chisme, a veces calumnioso, contra una persona o familia, que cobra mayor proporción y maledicencia a medida que pasa de una persona a otra."
     ],
-    "cheque": [
+    "Cheque": [
         "1. Mandato escrito de pago, para cobrar una cantidad determinada de los fondos que quien lo expide tiene disponibles en un banco.",
         "2. Col., Cuba y Hond. Válvula que permite el paso del líquido en una sola dirección.",
         "3. Hond. U. para expresar asentimiento o conformidad."
     ],
-    "conflictuar": [
+    "Conflictuar": [
         "1. Arg., Bol., Ec., Méx., Par. y Ur. Provocar un conflicto en algo o en alguien.",
         "2. Arg., Bol., Ec., Méx., Par. y Ur. Dicho de una persona: Sufrir un conflicto interno o preocupación que pueden llegar a condicionar su comportamiento."
     ],
-    "depauperar": [
+    "Depauperar": [
         "1. Empobrecer.",
         "2. Med. Debilitar, extenuar. U. m. c. prnl."
     ],
-    "dormir": [
+    "Dormir": [
         "1. Hallarse en el estado de reposo que consiste en la inacción o suspensión de los sentidos y de todo movimiento voluntario.",
         "2. Pernoctar.",
         "3. Descuidarse, obrar en un negocio con menos solicitud de la que se requiere. U. m. c. prnl.",
@@ -61,15 +61,15 @@ export default {
         "16. Mar. Dicho de un buque: Quedarse muy escorado por efecto del mucho viento y muy expuesto a zozobrar al menor impulso.",
         "17. Méx. y R. Dom. Engañar a alguien, embaucarlo."
     ],
-    "emisario": [
+    "Emisario": [
         "1. Mensajero que se envía para indagar lo que se desea saber, para comunicar a alguien algo o para concertarse en secreto con tercera o terceras personas.",
         "2. Canalización que sirve para evacuar las aguas residuales de una población hacia una depuradora o hacia el mar.",
         "3. Conducto para dar salida principalmente a las aguas de un lago o de un embalse."
     ],
-    "esnobismo": [
+    "Esnobismo": [
         "1. Cualidad de esnob."
     ],
-    "gota": [
+    "Gota": [
         "1. Pequeña porción de un líquido, con forma esferoidal.",
         "2. Coloq. Pizca, cantidad pequeña de algo.",
         "3. Arq. Cada uno de los pequeños troncos de pirámide o de cono colocados como adorno debajo de los triglifos.",
@@ -77,25 +77,25 @@ export default {
         "5. Col. Enfermedad de ciertas plantas, como la papa, causada por un hongo que marchita el tallo.",
         "6. Plural Forma medicamentosa que se administra en gotas."
     ],
-    "idiosincrasia": [
+    "Idiosincrasia": [
         "1. Rasgos, temperamento, carácter, etc., distintivos y propios de un individuo o de una colectividad."
     ],
-    "insurrección": [
+    "Insurrección": [
         "1. Levantamiento, sublevación o rebelión de un pueblo, de una nación, etc."
     ],
-    "liberación": [
+    "Liberación": [
         "1. Acción de poner en libertad.",
         "2. Carta o recibo que se da al deudor cuando paga.",
         "3. Cancelación o declaración de caducidad de la carga o cargas que real o aparentemente gravan un inmueble."
     ],
-    "misántropo": [
+    "Misántropo": [
         "1. Dicho de una persona: Que siente o manifiesta misantropía. U. también c. s.",
         "2. Que revela misantropía o da muestras de ella."
     ],
-    "nefelibata": [
+    "Nefelibata": [
         "1. Dicho de una persona: Soñadora, que no se apercibe de la realidad. U. también c. s."
     ],
-    "palma": [
+    "Palma": [
         "1. Palmera (|| árbol).",
         "2. Hoja de la palmera.",
         "3. Por antonom. palma que, por haber estado atada con otras en el árbol, tiene las lacinias juntas y, por falta de luz, no ha llegado a adquirir el color verde.",
@@ -107,31 +107,31 @@ export default {
         "9. Veter. Parte inferior del casco de las caballerías.",
         "10. Plural Palmadas de aplausos."
     ],
-    "plañir": [
+    "Plañir": [
         "1. Gemir y llorar, sollozando o clamando. U. también c. prnl."
     ],
-    "salmón": [
+    "Salmón": [
         "1. Pez teleósteo de hasta metro y medio de longitud, de cuerpo rollizo, cabeza apuntada y una aleta adiposa dorsal junto a la cola, de lomo azulado, vientre plateado, con reflejos irisados en los costados, que remonta los ríos para desovar, y cuya carne, rojiza y sabrosa, es muy apreciada.",
         "2. Dicho de un color: Rojizo o rosado semejante al de la carne del salmón. U. también c. s. m.",
         "3. De color salmón."
     ],
-    "sempiterno": [
+    "Sempiterno": [
         "1. Que durará siempre; que, habiendo tenido principio, no tendrá fin.",
         "2. Perpetua (|| planta).",
         "3. Perpetua (|| flor).",
         "4. Tela de lana, basta y muy tupida, que se usaba para vestidos."
     ],
-    "soberanía": [
+    "Soberanía": [
         "1. Cualidad de soberano.",
         "2. Poder político supremo que corresponde a un Estado independiente.",
         "3. Alteza o excelencia no superada en cualquier orden inmaterial."
     ],
-    "sueldo": [
+    "Sueldo": [
         "1. Remuneración regular asignada por el desempeño de un cargo o servicio profesional.",
         "2. Moneda, de distinto valor según los tiempos y países, igual a la vigésima parte de la libra respectiva.",
         "3. Sólido (|| moneda romana)."
     ],
-    "sufragio": [
+    "Sufragio": [
         "1. Voto (|| parecer o dictamen explicado en una congregación).",
         "2. Sistema electoral para la provisión de cargos.",
         "3. Voto de quien tiene capacidad de elegir.",
@@ -139,14 +139,15 @@ export default {
         "5. Obra buena que se aplica por las almas del purgatorio.",
         "6. Plural consuetas. U. también en singular"
     ],
-    "trémolo": [
+    "Trémolo": [
         "1. Mús. Sucesión rápida de muchas notas iguales, de la misma duración."
     ],
-    "uebos": [
+    "Uebos": [
         "1. Necesidad, cosa necesaria."
     ],
-    "vacuna": [],
-    "voto": [
+    "Vacuna": [
+        "f. Preparado de antígenos que, aplicado a un organismo, provoca en él una respuesta de defensa. U. t. en sent. fig."],
+    "Voto": [
         "1. Expresión pública o secreta de una preferencia ante una opción.",
         "2. Gesto, papeleta u otro objeto con que se expresa una preferencia ante una opción.",
         "3. Parecer o dictamen explicado en una congregación o junta en orden a una decisión.",
@@ -158,7 +159,7 @@ export default {
         "9. Rel. Promesa que se hace a la divinidad o a las personas santas, ya sea por devoción o para obtener determinada gracia.",
         "10. Rel. Cada uno de los prometimientos que constituyen el estado religioso y tiene admitidos la Iglesia, como son la pobreza, la castidad y la obediencia."
     ],
-    "zaino": [
+    "Zaino": [
         "1. Traidor, falso, poco seguro en el trato.",
         "2. Dicho de una caballería: Que da indicios de ser falsa."
     ]
