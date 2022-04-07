@@ -66,7 +66,9 @@ export default {
         "Rel. Promesa que se hace a la divinidad o a las personas santas, ya sea por devoción o para obtener determinada gracia.",
         "Rel. Cada uno de los prometimientos que constituyen el estado religioso y tiene admitidos la Iglesia, como son la pobreza, la castidad y la obediencia."
     ],
-    "vacuna": [],
+    "vacuna": [
+        "Preparado de antígenos que, aplicado a un organismo, provoca en él una respuesta de defensa. U. t. en sent. fig."
+    ],
     "insurrección": [
         "Levantamiento, sublevación o rebelión de un pueblo, de una nación, etc."
     ],
