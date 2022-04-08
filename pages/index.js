@@ -32,7 +32,6 @@ export default function Home(props) {
             <Background className={styles.bottom} />
             <div className={styles.title}>
                 <h1>Concurso Caja Creativa</h1>
-                {/* <Treasure className={styles.tiny} /> */}
             </div>
             <p className={styles.subtitle}>Haz click para obtener tu palabra aleatoria. Luego, escribe un texto basado en ella.
                 <br />
