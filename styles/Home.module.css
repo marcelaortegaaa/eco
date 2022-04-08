@@ -93,8 +93,7 @@
 }
 
 .main .genreColumn {
-  display: flex;
-  flex-direction: column;
+  display: grid;
   align-content: center;
 }
 
