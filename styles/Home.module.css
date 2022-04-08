@@ -92,6 +92,12 @@
   outline: none;
 }
 
+.main .genreColumn {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
 .main .genreColumn .genres a {
   display: block;
   width: max-content;
