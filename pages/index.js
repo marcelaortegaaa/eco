@@ -61,13 +61,13 @@ export default function Home(props) {
                         <p>Haz click en cada uno para ver sus criterios de evaluación. Puedes participar varias veces, pero solo podrás enviar un texto por palabra aleatoria.</p>
                         <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b> o visítanos en el Bloque K, piso 3.</p>
                         <div className={styles.form}>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc4zlIXUA4ZgYXanoqynCWAf3EwmOKhAijHvkHwPluZEWz3Q/viewform" target="_blank">Enviar texto →</a>
+                            <a href="https://forms.gle/SdE1bShRtdaLkdSH8" target="_blank">Enviar texto →</a>
                         </div>
                         <div className={styles.credits}>
                             <h2>Créditos</h2>
-                            <p>Definiciones tomadas de la RAE
+                            <p>Definiciones tomadas de la <a href="https://dle.rae.es/" target="_blank">RAE</a>
                                 <br />
-                                Concurso organizado por el Centro de Escritura ECO
+                                Concurso organizado por el <a href="https://www.uninorte.edu.co/escritura" target="_blank">Centro de Escritura ECO</a>
                             </p>
                         </div>
                     </section>
