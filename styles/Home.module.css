@@ -1,3 +1,8 @@
+.center {
+  display: grid;
+  align-content: center;
+}
+
 .container {
   position: relative;
 }
