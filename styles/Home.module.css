@@ -193,9 +193,6 @@
 
   .container {
     position: relative;
-    top: 0;
-    -ms-transform: 0;
-    transform: 0;
   }
 
   .main {
