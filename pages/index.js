@@ -28,9 +28,9 @@ export default function Home(props) {
 
     return (
         <div className={styles.center}>
+            <Background className={styles.top} />
+            <Background className={styles.bottom} />
             <div className={styles.container}>
-                <Background className={styles.top} />
-                <Background className={styles.bottom} />
                 <div className={styles.title}>
                     <h1>Concurso Caja Creativa</h1>
                 </div>

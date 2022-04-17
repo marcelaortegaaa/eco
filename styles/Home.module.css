@@ -1,6 +1,7 @@
 .center {
   display: grid;
-  align-content: center;
+  align-content: stretch;
+  height: 100vh;
 }
 
 .container {
