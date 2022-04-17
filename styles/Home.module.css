@@ -69,6 +69,10 @@
   flex-direction: column;
 }
 
+.main .wordColumn p {
+  padding-bottom: 0.5rem;
+}
+
 .main .wordColumn button {
   position: relative;
   align-self: center;
