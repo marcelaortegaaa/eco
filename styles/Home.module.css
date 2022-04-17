@@ -186,6 +186,11 @@
 }
 
 @media screen and (max-width: 768px) {
+  .center {
+    height: 100%;
+    padding-top: 1rem;
+  }
+
   .container {
     position: relative;
     top: 0;
@@ -220,5 +225,40 @@
   .main .genreColumn .genres {
     display: grid;
     grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (min-height: 720px) {
+  .container p {
+    font-size: 1.25rem;
+  }
+
+  .container .subtitle p {
+    font-size: 1.5rem;
+    margin: 0.5rem 7rem 2rem;
+  }
+
+  .container h1 {
+    font-size: 3rem;
+  }
+
+  .main h2 {
+    font-size: 1.75rem;
+  }
+
+  .main .genreColumn .genres a {
+    font-size: 1.25rem;
+  }
+
+  .main .form a {
+    font-size: 1.75rem;
+  }
+
+  .main .credits h2 {
+    font-size: 1.5rem;
+  }
+
+  .main .credits p {
+    font-size: 1.125rem;
   }
 }
