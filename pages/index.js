@@ -59,7 +59,7 @@ export default function Home(props) {
                             <a target="_blank" href="https://docs.google.com/file/d/1MUOkyYBuRBuJQOYxDgtUTp3KKDDvBhbo6-uNmi_xVz8/view?usp=sharing">Ensayo argumentativo</a>
                         </div>
                         <p>Haz click en cada uno para ver sus criterios de evaluación. Puedes participar varias veces, pero solo podrás enviar un texto por palabra aleatoria.</p>
-                        <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b> o visítanos en el Bloque K, piso 3</p>
+                        <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b> o visítanos en el Bloque K, piso 3.</p>
                         <div className={styles.form}>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc4zlIXUA4ZgYXanoqynCWAf3EwmOKhAijHvkHwPluZEWz3Q/viewform" target="_blank">Enviar texto →</a>
                         </div>
