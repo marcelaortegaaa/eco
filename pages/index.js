@@ -36,7 +36,7 @@ export default function Home(props) {
                 </div>
                 <p className={styles.subtitle}>Haz click para obtener tu palabra aleatoria. Luego, escribe un texto basado en ella.
                     <br />
-                    Se premiará el mejor texto de cada categoría con un bono de $300.000 redimibles en las unidades duNord.
+                    Se premiará el mejor texto de cada categoría con un bono de $400.000 redimibles en las unidades duNord.
                 </p>
 
                 <main className={styles.main}>
@@ -52,11 +52,11 @@ export default function Home(props) {
                         <h2>Géneros</h2>
                         <p>Los géneros que podrás utilizar son:</p>
                         <div className={styles.genres}>
-                            <a target="_blank" href="https://drive.google.com/file/d/1K-65nq6zU7OJV3qXFOqgnSjbv2a0MWOP/view?usp=sharing">Poesía</a>
-                            <a target="_blank" href="https://drive.google.com/file/d/1WXDhoX9BtstvGxoSpFIbwKUoRvkUKNZk/view?usp=sharing">Cuento corto</a>
-                            <a target="_blank" href="https://drive.google.com/file/d/1HPcyhVZAycEpPYz14YCyi_l6amLUGs1R/view?usp=sharing">Drabble</a>
-                            <a target="_blank" href="https://docs.google.com/file/d/1ckeHl2zVSzgXXPYL5vqy5HP5N_63MxSTRjAQ-qwbgPU/view?usp=sharing">Columna de opinión</a>
-                            <a target="_blank" href="https://docs.google.com/file/d/1MUOkyYBuRBuJQOYxDgtUTp3KKDDvBhbo6-uNmi_xVz8/view?usp=sharing">Ensayo argumentativo</a>
+                            <a target="_blank" href="https://uninorte-my.sharepoint.com/:w:/g/personal/escritura_uninorte_edu_co/EQb9YbLrtSxJiF0LwWlOPzIB_23aXJH5-Mt85FsVUpo4Dg?e=CKZmCR">Poesía</a>
+                            <a target="_blank" href="https://uninorte-my.sharepoint.com/:w:/g/personal/escritura_uninorte_edu_co/EbziokVR4oZIp5bozteFFY8BL_7Rk6KrtAHJNJyHSmFpqg?e=qeNPax">Cuento corto</a>
+                            <a target="_blank" href="https://uninorte-my.sharepoint.com/:w:/g/personal/escritura_uninorte_edu_co/EVLfQ2PqZ35NhZP4B1JSb_YBblG6I1tnsQoEvWObK1AZ8w?e=p0jPti">Drabble</a>
+                            <a target="_blank" href="https://uninorte-my.sharepoint.com/:w:/g/personal/escritura_uninorte_edu_co/EWAyEzK-Y-lHq44nEckykXcB3LqQXc7upDs10jdhU1IG_g?e=T62s6H">Columna de opinión</a>
+                            <a target="_blank" href="https://uninorte-my.sharepoint.com/:w:/g/personal/escritura_uninorte_edu_co/EV0qqXlRjeBGkXvym0Uj7hcBZCDK-MG7OFqAaW72W299Cg?e=L5BPUT">Ensayo argumentativo</a>
                         </div>
                         <p>Haz click en cada uno para ver sus criterios de evaluación. Puedes participar varias veces, pero solo podrás enviar un texto por palabra aleatoria.</p>
                         <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b> o visítanos en el Bloque K, piso 3.</p>
