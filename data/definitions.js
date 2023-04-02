@@ -43,7 +43,7 @@ export default {
     ],
     "Perfume":[
         "1. Sustancia, generalmente líquida, que se utiliza para dar buen olor.",
-        "2 Olor bueno o muy agradable."
+        "2. Olor bueno o muy agradable."
     ],
     "Corazón":[
         "1. Órgano de naturaleza muscular, común a todos los vertebrados y a muchos invertebrados, que actúa como impulsor de la sangre y que en el ser humano está situado en la cavidad torácica.",
@@ -110,7 +110,7 @@ export default {
     "Olla":[
         "1. Vasija redonda de barro o metal, que comúnmente forma barriga, con cuello y boca anchos y con una o dos asas, la cual sirve para cocer alimentos, calentar agua, etc.",
         "2. Contenido o cabida de una olla.",
-        "3 Comida preparada con carne, tocino, legumbres y hortalizas, principalmente garbanzos y patatas, a lo que se añade a veces algún embuchado y todo junto se cuece y sazona.",
+        "3. Comida preparada con carne, tocino, legumbres y hortalizas, principalmente garbanzos y patatas, a lo que se añade a veces algún embuchado y todo junto se cuece y sazona.",
     ],
     "Compás":[
         "1. Instrumento formado por dos brazos articulados terminados en punta y unidos por un eje en su parte superior, que sirve para trazar circunferencias o arcos y tomar distancias.",
@@ -119,13 +119,13 @@ export default {
         "4. tamaño.",
         "5. Regla o medida de algunas cosas, como la vida, las acciones, etc.",
         "6. Instrumento para indicar el rumbo de una nave.",
-        "10 Signo que determina el ritmo en cada composición o parte de ella y las relaciones de valor entre los sonidos.",
+        "7. Signo que determina el ritmo en cada composición o parte de ella y las relaciones de valor entre los sonidos.",
     ],
     "Baile":[
-        "2. Cada una de las maneras de bailar sujetas a una pauta.",
-        "3. Festejo en que se juntan varias personas para bailar.",
-        "4. Pieza musical destinada a ser bailada.",
-        "5. Alteración por error del orden de algo."
+        "1. Cada una de las maneras de bailar sujetas a una pauta.",
+        "2. Festejo en que se juntan varias personas para bailar.",
+        "3. Pieza musical destinada a ser bailada.",
+        "4. Alteración por error del orden de algo."
     ],
     "Vela":[
         "1. Asistencia por horas o turno delante del Santísimo Sacramento.",

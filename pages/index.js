@@ -61,7 +61,7 @@ export default function Home(props) {
                         <p>Haz click en cada uno para ver sus criterios de evaluación. Puedes participar varias veces, pero solo podrás enviar un texto por palabra aleatoria.</p>
                         <p>Te esperamos en el Centro de Escritura ECO para potencializar tu relato. Pide la cita a través de nuestro correo electrónico <b>escritura@uninorte.edu.co</b> o visítanos en el Bloque K, piso 3.</p>
                         <div className={styles.form}>
-                            <a href="https://forms.gle/SdE1bShRtdaLkdSH8" target="_blank">Enviar texto →</a>
+                            <a href="https://forms.office.com/r/6e316eFeyM" target="_blank">Enviar texto →</a>
                         </div>
                         <div className={styles.credits}>
                             <h2>Créditos</h2>
